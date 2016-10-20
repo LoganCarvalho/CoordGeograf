@@ -15,10 +15,12 @@ Jorge Campos
 O DECRETO Nº 13.389 DE 27 DE OUTUBRO DE 2011 do Governo do Estado da Bahia declarou de utilidade pública, para fins de desapropriação, área de terra destinada à duplicação e implantação de obras de arte especiais na BA-001, nos Municípios de Itaparica e Vera Cruz – Bahia, conforme coordenadas da poligonal constantes do Anexo Único do Decreto.
 Você recebeu um arquivo texto com as coordenadas da poligonal publicada no diário oficial. O referido arquivo texto, com o nome “poligonal.txt”, possui a seguinte estrutura:
 
-99 X 9999				Zona (int), Hemisfério (char) e Num. de vértices da poligonal (int)
+Zona (int), Hemisfério (char) e Num. de vértices da poligonal (int)
+99 X 9999			
 
+Coordenadas UTM (easting,northing) (double)
 9999999.999999  9999999.99999  
-9999999.999999  9999999.99999 		Coordenadas UTM (easting,northing) (double)
+9999999.999999  9999999.99999 		
 ...
 9999999.999999  9999999.99999
 
