@@ -16,9 +16,11 @@ O DECRETO Nº 13.389 DE 27 DE OUTUBRO DE 2011 do Governo do Estado da Bahia decl
 Você recebeu um arquivo texto com as coordenadas da poligonal publicada no diário oficial. O referido arquivo texto, com o nome “poligonal.txt”, possui a seguinte estrutura:
 
 Zona (int), Hemisfério (char) e Num. de vértices da poligonal (int)
+
 99 X 9999			
 
 Coordenadas UTM (easting,northing) (double)
+
 9999999.999999  9999999.99999  
 9999999.999999  9999999.99999 		
 ...
