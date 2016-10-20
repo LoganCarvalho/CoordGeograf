@@ -27,11 +27,17 @@ Coordenadas UTM (easting,northing) (double)
 ...
 
 Escreva um programa usando a linguagem C com as seguintes opções: 
+
 1-Ler arquivo com dados da poligonal
+
 2-Calcular Área da Poligonal
+
 3-Calcular Perímetro da Poligonal
+
 4-Testar se um ponto (em coordenadas geográficas) pertence a poligonal
+
 5-Gerar Arquivo de Saída em KML
+
 6-Sair
 
 
